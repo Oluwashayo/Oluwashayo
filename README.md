@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Unity**
 
-- 👯 I’m looking to collaborate on **Extended reality projects**
+- 👯 I’m looking to collaborate on **Extended reality projects and product management**
 
 - 🤝 I’m looking for help with **Extended reality (XR)**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/emmanuel-balogun-35a1a1249/](https://www.linkedin.com/in/emmanuel-balogun-35a1a1249/)
 
-- 💬 Ask me about **virtual reality**
+- 💬 Ask me about **virtual reality and prodoct management**
 
 - 📫 How to reach me **oluwashayobalogun@gmail.com**
 
